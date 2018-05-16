@@ -1,4 +1,4 @@
-package ${config.java.package.cmd};
+package ${config.java.package.cmd}.${table.prefix};
 
 import ${config.java.package.vo}.CmdSign;
 import ${config.java.package.cmd}.ARcHttpCmd;
