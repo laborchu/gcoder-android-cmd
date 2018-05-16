@@ -1,8 +1,6 @@
 package ${config.java.package.vo}.${table.prefix};
 
-import ${config.java.package.vo}.${table.prefix}.${table.upperCamelName}VO;
 import ${config.java.package.vo}.BaseVO;
-import com.value.mybatis.Pagination;
 
 import java.util.List;
 import java.util.Map;
