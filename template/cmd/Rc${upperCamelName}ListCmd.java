@@ -4,7 +4,7 @@ import ${config.java.package.vo}.CmdSign;
 import ${config.java.package.cmd}.ARcHttpCmd;
 import ${config.java.package.code}.CmdCode;
 
-public class ${table.upperCamelName}ListCmd extends ARcHttpCmd<CmdSign> {
+public class Rc${table.upperCamelName}ListCmd extends ARcHttpCmd<CmdSign> {
 
     @Override
     public CmdSign req() throws Exception {
