@@ -1,4 +1,4 @@
-package ${config.java.package.vo}.${table.prefix};
+package ${config.java.package.vo};
 
 import ${config.java.package.vo}.BaseVO;
 
